@@ -80,7 +80,7 @@
 <div align="left">
   
 ### Hotel Management System
-[🟢 Live Demo]([https://hotel-managment-system-snowy.vercel.app](https://booking-iota-one.vercel.app/)) ·
+[🟢 Live Demo](https://booking-iota-one.vercel.app/) ·
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white)
