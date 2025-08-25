@@ -1,6 +1,16 @@
-<h2 align="center">Hi 👋<br> My name is Youssef  and <br>I'm a Front-End Developer | React</h2>
-
+<h1 align="center">Hi 👋, I'm Youssef</h1>
+<h3 align="center">Front-End Developer React | Building Modern & Responsive Web Apps</h3>
 ###
+
+---
+
+## 🚀 About Me  
+- 💻 Specializing in **React, Next.js, and Modern Front-End Development**  
+- 🎯 Focused on **UI/UX, accessibility, and performance optimization**  
+- 📚 Always learning **JavaScript, TypeScript, and the React ecosystem**  
+- 🤝 Open to **collaborations** on open-source & freelance projects  
+
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
