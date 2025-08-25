@@ -8,7 +8,7 @@
 - 📚 Always learning **JavaScript, TypeScript, and the React ecosystem**  
 - 🤝 Open to **collaborations** on open-source & freelance projects  
 
----
+
 
 
 
