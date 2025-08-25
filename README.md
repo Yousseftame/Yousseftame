@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">Front-End Developer React | Building Modern & Responsive Web Apps</h3>
-
-
+<h1 align="center">👨‍💻 Youssef | Front-End Developer</h1>
+<h3 align="center">Turning Ideas into Clean, Responsive & Scalable Web Apps ✨</h3>
 ---
 
 ## 🚀 About Me  
