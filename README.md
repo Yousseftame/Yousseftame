@@ -50,7 +50,7 @@
  <div align="right" style="display: inline-block; vertical-align: top;">
     <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHptZjMweTc3dWRybjZ6NzFmc3doenkwYzI2M3J2dHJ1MnExMHd3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
   </div>
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/yousseftamerosama/" target="_blank">
