@@ -3,10 +3,10 @@
 
 ---
 ## 🚀 About Me  
-- 🔴 Specializing in **React, and Modern Front-End Development**  
-- 🔴 Focused on **UI/UX, accessibility, and performance optimization**  
-- 🔴 Always learning **JavaScript, TypeScript, and the React ecosystem**  
-- 🔴 Open to **collaborations** on open-source & freelance projects  
+- 📌 Specializing in **React, and Modern Front-End Development**  
+- 📌 Focused on **UI/UX, accessibility, and performance optimization**  
+- 📌 Always learning **JavaScript, TypeScript, and the React ecosystem**  
+- 📌 Open to **collaborations** on open-source & freelance projects  
 
 
 ---
