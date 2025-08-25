@@ -15,7 +15,7 @@
 
 
   <!-- Logos (left) -->
-  <div style="display: inline-block; vertical-align: middle; align="left" text-align: left;">
+  <div style="display: inline-block; vertical-align: middle; align="left" >
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -50,7 +50,7 @@
   </div>
 
   <!-- GIF (right) -->
-  <div style="display: inline-block; vertical-align: middle; margin-left: 30px;">
+  <div style="display:  inline-block; vertical-align: middle; margin-left: 30px; align="right"">
     <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHptZjMweTc3dWRybjZ6NzFmc3doenkwYzI2M3J2dHJ1MnExMHd3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
   </div>
 
