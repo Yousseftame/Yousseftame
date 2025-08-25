@@ -74,7 +74,7 @@
 
 
 
-## 📌 Featured Projects
+ 📌 Featured Projects
 
 <!-- Project: Hotel Management -->
 <div align="left">
