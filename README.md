@@ -80,7 +80,7 @@
 <div align="left">
   
 ### Hotel Management System
-[🟢 Live Demo](https://hotel-managment-system-snowy.vercel.app) ·
+[🟢 Live Demo]([https://hotel-managment-system-snowy.vercel.app](https://booking-iota-one.vercel.app/)) ·
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white)
@@ -109,7 +109,7 @@
 <div align="left">
   
 ### Project Management System
-[🟢 Live Demo](https://project-managment-system-sigma.vercel.app) ·
+[🟢 Live Demo]([https://project-managment-system-sigma.vercel.app](https://project-management-system-y5bw.vercel.app/)) ·
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![RBAC](https://img.shields.io/badge/Roles-Admin%2FUser-blue)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui)
