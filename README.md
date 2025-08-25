@@ -72,3 +72,49 @@
 </div>
 
 ###
+---
+
+## 📌 Featured Projects
+
+<!-- Project: Hotel Management -->
+<div align="left">
+  
+### Hotel Management System
+[🟢 Live Demo](https://hotel-managment-system-snowy.vercel.app) ·
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white)
+![RBAC](https://img.shields.io/badge/Role%20Based%20Access-OK-blue)
+
+**Brief:** Authentication, role-based navigation (Admin/Staff), Stripe payments, fully responsive UI.
+</div>
+
+---
+
+<!-- Project: Quiz Wiz -->
+<div align="left">
+  
+### Quiz Wiz App
+[🟢 Live Demo](https://quizz-wizz-app.vercel.app)
+![Charts](https://img.shields.io/badge/Charts-Recharts-informational)
+![Certificates](https://img.shields.io/badge/Certificates-PDF-blue)
+![Auth](https://img.shields.io/badge/Auth-JWT-green)
+
+**Brief:** Create and manage quizzes, view analytics via charts, generate PDF certificates, role-based access for Instructor & Learner, animations.
+</div>
+
+---
+
+<!-- Project: Project Management -->
+<div align="left">
+  
+### Project Management System
+[🟢 Live Demo](https://project-managment-system-sigma.vercel.app) ·
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![RBAC](https://img.shields.io/badge/Roles-Admin%2FUser-blue)
+![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui)
+
+**Brief:** Task boards, drag & drop, progress tracking, and role-based dashboards.
+</div>
+
+---
