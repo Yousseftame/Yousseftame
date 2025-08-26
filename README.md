@@ -3,10 +3,13 @@
 
 ---
 ## 🚀 About Me  
-- 📌 Specializing in **React, and Modern Front-End Development**  
-- 📌 Focused on **UI/UX, accessibility, and performance optimization**  
-- 📌 Always learning **JavaScript, TypeScript, and the React ecosystem**  
-- 📌 Open to **collaborations** on open-source & freelance projects  
+- 📌 Solid foundation in **React.js, JavaScript, and TypeScript**
+- 📌 Comfortable working with **different CSS libraries & frameworks like Bootstrap, Material-UI, and TailwindCSS** 
+- 📌 Strong focus on **UI/UX design, accessibility, and performance optimization**  
+- 📌 Skilled in **Git/GitHub** for version control and collaboration
+- 📌 Familiar with **Agile practices**, teamwork, and iterative development
+- 📌 Passion for continuous learning and staying updated with the React ecosystem
+- 📌 Open-minded, adaptable, and motivated to contribute to meaningful projects 
 
 
 ---
