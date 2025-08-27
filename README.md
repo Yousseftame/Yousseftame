@@ -1,8 +1,8 @@
 <h1 align="center">👨‍💻 Youssef | Front-End Developer</h1>
 <h3 align="center">Turning Ideas into Clean, Responsive & Scalable Web Apps ✨</h3>
-<a href="https://portofilo-gamma.vercel.app" target="_blank">
-<h3 align="center">🌐 my portofilo  </h3>
-</a>
+
+<h3 align="center">🌐 my portofilo : https://portofilo-gamma.vercel.app </h3>
+
 
 ---
 ## 🚀 About Me  
