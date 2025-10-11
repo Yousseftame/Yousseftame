@@ -6,7 +6,7 @@
 
 ---
 ## 🚀 About Me  
-- 📌 Solid foundation in **React.js, JavaScript, and TypeScript**
+- 📌 Solid foundation in **React.js, Next.js, JavaScript, and TypeScript**
 - 📌 Comfortable working with **different CSS libraries & frameworks like Bootstrap, Material-UI, and TailwindCSS** 
 - 📌 Strong focus on **UI/UX design, accessibility, and performance optimization**  
 - 📌 Skilled in **Git/GitHub** for version control and collaboration
