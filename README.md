@@ -130,6 +130,9 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![RBAC](https://img.shields.io/badge/Role%20Based%20Access-OK-blue)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+
 
 
 **Brief:** Built a responsive, high-performance React corporate website with smooth animations and a scalable component-based architecture.
@@ -147,6 +150,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Charts](https://img.shields.io/badge/Charts-Recharts-informational)
 ![Certificates](https://img.shields.io/badge/Certificates-PDF-blue)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Auth](https://img.shields.io/badge/Auth-JWT-green)
 
 **Brief:** Developed a secure matchmaking platform with a seamless user experience, providing personalized guidance, privacy-focused features, and structured tools to support informed relationship decisions.
@@ -163,6 +167,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![RBAC](https://img.shields.io/badge/Roles-Admin%2FUser-blue)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
 
 **Brief:** Developed a modern e-commerce platform for Lumi Farm featuring a complete shopping experience with product listings, cart, checkout, and a custom admin dashboard for managing products and orders.
 </div>
@@ -177,6 +184,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 
 **Brief:** Developed a full-scale real-time auction platform using React and Firebase, featuring live bidding, secure payments, and advanced auction logic. Built a scalable admin panel with 18+ modules for financial management, role-based access control, and platform operations.
@@ -190,6 +198,8 @@
 ![RBAC](https://img.shields.io/badge/Roles-Admin%2FUser-blue)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
 
 **Brief:** Developed a premium React corporate website for a creative production house, featuring a modern, responsive design with smooth animations and a scalable component-based architecture.
