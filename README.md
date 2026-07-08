@@ -126,9 +126,13 @@
 ### QUIP – Innovation & General Contracting
 [🟢 Live Demo](https://quipinnovate.com) ·
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![RBAC](https://img.shields.io/badge/Role%20Based%20Access-OK-blue)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
-**Brief:** Built a modern corporate website for a multidisciplinary engineering company with over 30 years of experience across ICT Infrastructure, Software & AI, and Finishing & Construction. Developed a responsive, high-performance React application focused on delivering a premium user experience, smooth animations, and a scalable component-based architecture while showcasing the company's integrated services and regional presence across the MENA market.
+
+**Brief:** Built a responsive, high-performance React corporate website with smooth animations and a scalable component-based architecture.
 </div>
 
 ---
@@ -136,13 +140,16 @@
 <!-- Project: Quiz Wiz -->
 <div align="left">
   
-### Quiz Wiz App
-[🟢 Live Demo](https://quizz-wizz-app.vercel.app)
+### Ribat Platform
+[🟢 Live Demo](https://ribat.sa/)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Charts](https://img.shields.io/badge/Charts-Recharts-informational)
 ![Certificates](https://img.shields.io/badge/Certificates-PDF-blue)
 ![Auth](https://img.shields.io/badge/Auth-JWT-green)
 
-**Brief:** Create and manage quizzes, view analytics via charts, generate PDF certificates, role-based access for Instructor & Learner, animations.
+**Brief:** Developed a secure matchmaking platform with a seamless user experience, providing personalized guidance, privacy-focused features, and structured tools to support informed relationship decisions.
 </div>
 
 ---
@@ -150,13 +157,42 @@
 <!-- Project: Project Management -->
 <div align="left">
   
-### Project Management System
-[🟢 Live Demo](https://project-management-system-y5bw.vercel.app/) ·
+### Lumi Farm
+[🟢 Live Demo](https://lumifarm.shop/) ·
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![RBAC](https://img.shields.io/badge/Roles-Admin%2FUser-blue)
+
+**Brief:** Developed a modern e-commerce platform for Lumi Farm featuring a complete shopping experience with product listings, cart, checkout, and a custom admin dashboard for managing products and orders.
+</div>
+
+<div align="left">
+  
+### Loqta Zone
+[🟢 Live Demo](https://loqtazone.web.app/) ·
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![RBAC](https://img.shields.io/badge/Roles-Admin%2FUser-blue)
-![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
-**Brief:** Task boards, drag & drop, progress tracking, and role-based dashboards.
+
+**Brief:** Developed a full-scale real-time auction platform using React and Firebase, featuring live bidding, secure payments, and advanced auction logic. Built a scalable admin panel with 18+ modules for financial management, role-based access control, and platform operations.
+</div>
+
+<div align="left">
+  
+### AMP – Creative Production House
+[🟢 Live Demo](https://ampmena.com/) ·
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![RBAC](https://img.shields.io/badge/Roles-Admin%2FUser-blue)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+
+
+**Brief:** Developed a premium React corporate website for a creative production house, featuring a modern, responsive design with smooth animations and a scalable component-based architecture.
 </div>
 
 ---
