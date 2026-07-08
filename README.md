@@ -1,4 +1,8 @@
-<h1 align="center">👨‍💻 Youssef | Front-End Developer</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">👨‍💻 Front-End Developer</h3>
 <h3 align="center">Turning Ideas into Clean, Responsive & Scalable Web Apps ✨</h3>
 
 <h3 align="center">🌐 my portfolio  :  https://yousseef.web.app </h3>
