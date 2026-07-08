@@ -110,14 +110,11 @@
 
 <br/><br/>
 
-<!-- Reliable live badges (shields.io — not affected by the rate-limit issue) -->
-<img src="https://img.shields.io/github/followers/Yousseftame?label=Followers&style=for-the-badge&color=61DAFB&labelColor=1a1b27" alt="followers"/>
-<img src="https://img.shields.io/github/stars/Yousseftame?label=Stars&style=for-the-badge&color=F1E05A&labelColor=1a1b27" alt="stars"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Yousseftame&label=Public%20Repos&query=public_repos&style=for-the-badge&color=9146FF&labelColor=1a1b27" alt="repos"/>
+
 
 </div>
 
-<sub>⚠️ Note: the classic stats/top-langs/trophy cards from `github-readme-stats.vercel.app` and `github-profile-trophy.vercel.app` are currently affected by a widely-reported rate-limit outage on that free shared service (unrelated to your profile) — that's why they were swapped out above for badges that don't depend on it.</sub>
+
 
 ---
 
