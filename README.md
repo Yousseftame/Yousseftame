@@ -1,6 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef;Front-End+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+Firebase;Turning+Ideas+Into+Clean+Web+Apps+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80;Let's+build+something+great+together" alt="Typing SVG" />
 </h1>
+
+<h1 align="center">👨‍💻 Youssef | Front-End Developer</h1>
+<h3 align="center">Turning Ideas into Clean, Responsive & Scalable Web Apps ✨</h3>
 
 <h3 align="center">🌐 my portfolio  :  https://yousseef.web.app </h3>
 
