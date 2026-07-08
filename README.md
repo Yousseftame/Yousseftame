@@ -96,17 +96,32 @@
 
 ---
 
-## 📊 GitHub Stats
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousseftame&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousseftame&layout=compact&theme=tokyonight)
+## 📊 GitHub Activity Dashboard
 
+<div align="center">
 
+<!-- Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yousseftame&theme=react-dark&hide_border=true&area=true" width="100%" alt="Youssef's contribution graph"/>
 
+<br/><br/>
 
+<!-- Stats + Streak side by side -->
+<img src="https://github-readme-stats.vercel.app/api?username=Yousseftame&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Youssef's GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousseftame&theme=tokyonight&hide_border=true" height="165" alt="Youssef's GitHub streak"/>
 
+<br/><br/>
 
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousseftame&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 
+<br/><br/>
 
+<!-- Trophy Case -->
+<img src="https://github-profile-trophy.vercel.app/?username=Yousseftame&theme=tokyonight&no-frame=true&row=1&column=7" alt="Youssef's GitHub trophies"/>
+
+</div>
+
+<sub>⚠️ If any card above doesn't render, it's usually a caching hiccup on the free hosting service — refreshing the page or waiting a minute typically fixes it.</sub>
 
 ---
 
