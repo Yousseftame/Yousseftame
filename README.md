@@ -123,14 +123,12 @@
 <!-- Project: Hotel Management -->
 <div align="left">
   
-### Hotel Management System
-[🟢 Live Demo](https://booking-iota-one.vercel.app/) ·
+### QUIP – Innovation & General Contracting
+[🟢 Live Demo](https://quipinnovate.com) ·
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white)
 ![RBAC](https://img.shields.io/badge/Role%20Based%20Access-OK-blue)
 
-**Brief:** Authentication, role-based navigation (Admin/Staff), Stripe payments, fully responsive UI.
+**Brief:** Built a modern corporate website for a multidisciplinary engineering company with over 30 years of experience across ICT Infrastructure, Software & AI, and Finishing & Construction. Developed a responsive, high-performance React application focused on delivering a premium user experience, smooth animations, and a scalable component-based architecture while showcasing the company's integrated services and regional presence across the MENA market.
 </div>
 
 ---
