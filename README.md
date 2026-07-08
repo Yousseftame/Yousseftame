@@ -100,28 +100,24 @@
 
 <div align="center">
 
-<!-- Contribution Activity Graph -->
+<!-- Contribution Activity Graph (working) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yousseftame&theme=react-dark&hide_border=true&area=true" width="100%" alt="Youssef's contribution graph"/>
 
 <br/><br/>
 
-<!-- Stats + Streak side by side -->
-<img src="https://github-readme-stats.vercel.app/api?username=Yousseftame&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Youssef's GitHub stats"/>
+<!-- Streak Stats (working) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousseftame&theme=tokyonight&hide_border=true" height="165" alt="Youssef's GitHub streak"/>
 
 <br/><br/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousseftame&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-
-<br/><br/>
-
-<!-- Trophy Case -->
-<img src="https://github-profile-trophy.vercel.app/?username=Yousseftame&theme=tokyonight&no-frame=true&row=1&column=7" alt="Youssef's GitHub trophies"/>
+<!-- Reliable live badges (shields.io — not affected by the rate-limit issue) -->
+<img src="https://img.shields.io/github/followers/Yousseftame?label=Followers&style=for-the-badge&color=61DAFB&labelColor=1a1b27" alt="followers"/>
+<img src="https://img.shields.io/github/stars/Yousseftame?label=Stars&style=for-the-badge&color=F1E05A&labelColor=1a1b27" alt="stars"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Yousseftame&label=Public%20Repos&query=public_repos&style=for-the-badge&color=9146FF&labelColor=1a1b27" alt="repos"/>
 
 </div>
 
-<sub>⚠️ If any card above doesn't render, it's usually a caching hiccup on the free hosting service — refreshing the page or waiting a minute typically fixes it.</sub>
+<sub>⚠️ Note: the classic stats/top-langs/trophy cards from `github-readme-stats.vercel.app` and `github-profile-trophy.vercel.app` are currently affected by a widely-reported rate-limit outage on that free shared service (unrelated to your profile) — that's why they were swapped out above for badges that don't depend on it.</sub>
 
 ---
 
